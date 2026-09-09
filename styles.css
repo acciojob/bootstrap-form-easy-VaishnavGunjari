@@ -1,2 +1,9 @@
-
-/* Your CSS Code here. */
+.form-box {
+    border: 1px solid #dee2e6;
+    padding: 40px 10px 12px;
+}
+h1 {
+    font-size: 28px;
+    font-weight: 700;
+    margin-bottom: 40px;
+}
